@@ -50,7 +50,7 @@ Next, add the HTML elements needed for a login form, such as input fields for a 
 
 - [ ] Ask AI: "How do I structure a basic login form in HTML? 
 
-- [ ] Determine what fields belong in your signup form (name, age, email, etc) and look up how to create those `inputs`.
+- [ ] Determine what fields belong in your login form (name, age, email, etc) and look up how to create those `inputs`.
 
 - [ ] Determine where to insert the login form code within your HTML boilerplate.
 
